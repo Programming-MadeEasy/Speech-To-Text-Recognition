@@ -1,5 +1,5 @@
 # Speech-To-Text-Recognition
-This repository contains a [Jupyer notebook,titled The Full Code.ipynb] that provides an easy programming code to convert any audio file recorded from your microphone to the written text.
+This repository contains a [Jupyer notebook,titled The Full Code.ipynb](https://github.com/Programming-MadeEasy/Speech-To-Text-Recognition/blob/main/The%20Full%20code.ipynb) that provides an easy programming code to convert any audio file recorded from your microphone to the written text.
 
 
 ## Modules/Libraries Used
