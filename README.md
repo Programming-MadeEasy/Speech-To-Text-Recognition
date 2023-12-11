@@ -10,3 +10,4 @@ This repository contains a Jupyer notebook,[The Full Code.ipynb](https://github.
 1. Sounddevice and Wavio (microphone)
 2. winsound (playing audio)
 3. AssemblyAI (speech recognition)
+
